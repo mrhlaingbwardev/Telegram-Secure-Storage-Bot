@@ -1,0 +1,13 @@
+{
+  "name": "public-storage-bot",
+  "version": "1.0.0",
+  "description": "Secure Telegram Cloud Storage Bot",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "^3.0.0"
+  }
+}

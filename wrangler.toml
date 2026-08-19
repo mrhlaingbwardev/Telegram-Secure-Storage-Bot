@@ -1,0 +1,8 @@
+﻿name = "public-storage-bot"
+main = "src/index.js"
+compatibility_date = "2024-04-05"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "storage-db"
+database_id = "YOUR_DATABASE_ID"
